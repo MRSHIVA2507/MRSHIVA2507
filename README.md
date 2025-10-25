@@ -34,7 +34,7 @@ Notes, updates, and notifications for students HTML, CSS, JS, Firebase
   
 
 ## 💬 Connect With Me
-📧 Email: shivanana.dev@gmail.com  
+📧 Email: shivareddyy.dev@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/chittishivacharanreddy)  
 🌍 [Portfolio]
 
