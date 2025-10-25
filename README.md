@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**MRSHIVA2507/MRSHIVA2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi there, I'm SHIVA CHARAN REDDY CHITTI
+🎓 Currently Pursuing Btech in marri laxman reddy Institute
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💡 Passionate about AI, Computer Vision, and Creative Web Development  
+💻 I love building projects that combine technology and real-world problem-solving!
+
+---
+
+## 🧠 About Me
+- 🌟 worked on: *Gesture-Controlled Virtual Mouse using AI*
+- 🧰 Tools & Tech: Python, OpenCV, Mediapipe, PyAutoGUI, Flask, HTML, CSS, JS  
+- 🎮 Interests: Machine Learning • Virtual Interfaces • Automation
+- 🌐 Portfolio: 
+
+---
+
+## 🚀 My Projects
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+ 🖱 *Gesture-Controlled Virtual Mouse* 
+Control your cursor using hand tracking 
+Python, Mediapipe, OpenCV 
+ ⌨ *Virtual Keyboard using Hand Gestures* 
+ Type without touching the keyboard 
+ Python, AI, OpenCV 
+🧭 *Phishing Website Detection* 
+Detects fraudulent websites using ML 
+Python, Flask
+📚 *Student Library Website*
+Notes, updates, and notifications for students HTML, CSS, JS, Firebase 
+  
+
+## 💬 Connect With Me
+📧 Email: shivanana.dev@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/chittishivacharanreddy)  
+🌍 [Portfolio]
+
+
