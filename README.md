@@ -23,9 +23,6 @@
  🖱 *Gesture-Controlled Virtual Mouse* 
 Control your cursor using hand tracking 
 Python, Mediapipe, OpenCV 
- ⌨ *Virtual Keyboard using Hand Gestures* 
- Type without touching the keyboard 
- Python, AI, OpenCV 
 🧭 *Phishing Website Detection* 
 Detects fraudulent websites using ML 
 Python, Flask
