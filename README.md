@@ -1,7 +1,7 @@
 
 
 👋 Hi there, I'm SHIVA CHARAN REDDY CHITTI
-🎓 Currently Pursuing Btech in marri laxman reddy Institute
+🎓 Currently Pursuing Bachelor degree(Engineering)
 
 
 💡 Passionate about AI, Computer Vision, and Creative Web Development  
